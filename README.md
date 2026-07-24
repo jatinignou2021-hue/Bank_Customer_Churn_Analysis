@@ -51,5 +51,5 @@ Source: Bank Customer Churn Dataset (Kaggle)
 
 ## Author
 
-Jatin Kumar# Bank_Customer_Churn_Analysis
+Jatin Kumar ## Bank_Customer_Churn_Analysis
 Interactive Power BI dashboard analyzing bank customer churn using KPI cards, DAX measures, slicers, and interactive visuals to identify churn patterns, customer behavior, and business insights.
